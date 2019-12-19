@@ -1,0 +1,71 @@
+{
+    "name": "Meaning Cloud",
+    "description": "<p>MeaningCloud is the easiest, most powerful and most affordable way to extract the meaning of all kind of unstructured content: social conversation, articles, documents, etc. MeaningCloud extracts insights (valuable information) from multilingual, multimedia contents. MeaningCloud provides text analytics functionality for: - Text Classification - Entities and Topics Extraction - Sentiment, Opinion and Reputation Analysis - Clustering. - Voice of the Customer\/Employee\/Patient Analytics&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/LogoMeaningCloud650x264.png",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "content",
+        "have api",
+        "machine learning"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/meaning-cloud\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Meaning Cloud",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/LogoMeaningCloud650x264.png",
+            "humanURL": "https:\/\/www.meaningcloud.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/meaning-cloud-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.meaningcloud.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.meaningcloud.com\/blog\/feed\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.meaningcloud.com\/developer\/apis"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/www.meaningcloud.com\/developer\/documentation"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/MeaningCloud"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.meaningcloud.com\/products\/pricing"
+        },
+        {
+            "type": "Support",
+            "url": "https:\/\/www.meaningcloud.com\/developer\/support"
+        },
+        {
+            "type": "Twitter",
+            "url": "http:\/\/twitter.com\/MeaningCloud"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.meaningcloud.com\/"
+        }
+    ]
+}
